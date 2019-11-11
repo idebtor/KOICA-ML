@@ -25,3 +25,10 @@
   - link: (YouTube) https://www.youtube.com/watch?v=t4kyRyKyOpo
   - length: 19:49
   - contents: What happens when we teach a computer how to learn? Technologist Jeremy Howard shares some surprising new developments in the fast-moving field of deep learning, a technique that can give computers the ability to learn Chinese, or to recognize objects in photos, or to help think through a medical diagnosis. (One deep learning tool, after watching hours of YouTube, taught itself the concept of “cats.”) Get caught up on a field that will change the way the computers around you behave … sooner than you probably think.
+
+## The survey of AI by Prof. Andrew Ng
+
+  1. [Survey of major AI application areas (17min)](https://www.coursera.org/lecture/ai-for-everyone/survey-of-major-ai-application-areas-optional-dJEM7)
+
+  2. [Survey of major AI techniques (15min)](https://www.coursera.org/lecture/ai-for-everyone/survey-of-major-ai-techniques-optional-qxMIm)
+  
